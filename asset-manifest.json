@@ -1,14 +1,24 @@
 {
   "files": {
-    "main.js": "/seainfo6150-final-project-webapp/static/js/main.1a3b1af7.chunk.js",
-    "main.js.map": "/seainfo6150-final-project-webapp/static/js/main.1a3b1af7.chunk.js.map",
+    "main.css": "/seainfo6150-final-project-webapp/static/css/main.0331a273.chunk.css",
+    "main.js": "/seainfo6150-final-project-webapp/static/js/main.d8e10907.chunk.js",
+    "main.js.map": "/seainfo6150-final-project-webapp/static/js/main.d8e10907.chunk.js.map",
     "runtime~main.js": "/seainfo6150-final-project-webapp/static/js/runtime~main.c4d7f5e8.js",
     "runtime~main.js.map": "/seainfo6150-final-project-webapp/static/js/runtime~main.c4d7f5e8.js.map",
-    "static/js/2.fc54e8b9.chunk.js": "/seainfo6150-final-project-webapp/static/js/2.fc54e8b9.chunk.js",
-    "static/js/2.fc54e8b9.chunk.js.map": "/seainfo6150-final-project-webapp/static/js/2.fc54e8b9.chunk.js.map",
+    "static/js/2.0d28caa0.chunk.js": "/seainfo6150-final-project-webapp/static/js/2.0d28caa0.chunk.js",
+    "static/js/2.0d28caa0.chunk.js.map": "/seainfo6150-final-project-webapp/static/js/2.0d28caa0.chunk.js.map",
     "index.html": "/seainfo6150-final-project-webapp/index.html",
-    "precache-manifest.247f04989548970dcbda5769a0f254ed.js": "/seainfo6150-final-project-webapp/precache-manifest.247f04989548970dcbda5769a0f254ed.js",
+    "precache-manifest.0e21224bc522be02ee4bbe72d721dfc5.js": "/seainfo6150-final-project-webapp/precache-manifest.0e21224bc522be02ee4bbe72d721dfc5.js",
     "service-worker.js": "/seainfo6150-final-project-webapp/service-worker.js",
-    "static/media/treefrog.jpg": "/seainfo6150-final-project-webapp/static/media/treefrog.52b16bf8.jpg"
+    "static/css/main.0331a273.chunk.css.map": "/seainfo6150-final-project-webapp/static/css/main.0331a273.chunk.css.map",
+    "static/media/Birthday.jpg": "/seainfo6150-final-project-webapp/static/media/Birthday.78f0060b.jpg",
+    "static/media/Cupcakes.jpg": "/seainfo6150-final-project-webapp/static/media/Cupcakes.47e46c29.jpg",
+    "static/media/Errors.gif": "/seainfo6150-final-project-webapp/static/media/Errors.c9b19785.gif",
+    "static/media/Thanks.gif": "/seainfo6150-final-project-webapp/static/media/Thanks.639940fe.gif",
+    "static/media/Weddinghome.jpg": "/seainfo6150-final-project-webapp/static/media/Weddinghome.6bb9de83.jpg",
+    "static/media/aboutUs.jpg": "/seainfo6150-final-project-webapp/static/media/aboutUs.96d71995.jpg",
+    "static/media/cakeshome.jpg": "/seainfo6150-final-project-webapp/static/media/cakeshome.11a23252.jpg",
+    "static/media/cookies.jpg": "/seainfo6150-final-project-webapp/static/media/cookies.3500f8a6.jpg",
+    "static/media/logo.JPG": "/seainfo6150-final-project-webapp/static/media/logo.6f45a4bd.JPG"
   }
 }
