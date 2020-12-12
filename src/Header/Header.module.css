@@ -1,0 +1,78 @@
+.headerStyle {
+  display: flex;
+  justify-content: left;
+  padding: 10px;
+  height:80px;
+  margin-top: -10px;
+  margin-right:-10px;
+  margin-left:-10px;
+  background-color: #9B94BE;
+}
+
+.headerLogo {
+    display: block;
+    border: 1px solid #ddd;
+    margin-top: -25px;
+    margin-right:auto;
+    margin-left:auto;
+    padding: 5px;
+    width: 120px;
+}
+
+.navbar {
+    display: grid;
+    list-style: none;
+    row-gap: 10px;
+}
+.categories {
+  background-color: #9B94BE;
+  margin-left: 100px;
+  margin-top:18px;
+  color: white;
+  padding: 10px;
+  font-size: 20px;
+  font-weight: bold;
+  text-decoration: none;
+  text-align: center;
+  font-family: cursive;
+}
+.loginCategory {
+  background-color: #9B94BE;
+  color: white;
+  padding: 10px;
+  font-size: 20px;
+  font-weight: bold;
+  text-decoration: none;
+  text-align: center;
+  font-family: cursive;
+}
+
+.categories:hover {
+  background-color: #DCDAEC;
+  color: black;
+}
+.loginCategory:hover {
+  background-color: #DCDAEC;
+  color: black;
+}
+@media (min-width: 400px) {
+  .navbar {
+    column-gap: 20px;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+}
+
+@media (min-width: 800px) {
+  .navbar {
+    column-gap: 30px;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+}
+
+@media (min-width: 1200px) {
+  .navbar {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    column-gap: 40px;
+  }
+}
+

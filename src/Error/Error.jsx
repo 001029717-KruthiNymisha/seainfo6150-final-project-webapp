@@ -1,9 +1,10 @@
-import React from 'react'
+import React from 'react';
+import Errors from "../images/Errors.gif";
 
 const Error = () => {
     return (
         <div>
-            The error page
+            <div><img src={Errors} alt="errors"/></div>
         </div>
     )
 }

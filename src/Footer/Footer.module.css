@@ -1,0 +1,26 @@
+.footer {
+  background-color: #9B94BE;
+  padding: 10px;
+  height: 25px;
+  color: white;
+  margin-left:-10px;
+  margin-right:-10px;
+  margin-bottom:-10px;
+  font-weight: bolder;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  list-style: none;
+}
+
+.footerLink {
+  font-size: 15px;
+  color: white;
+  font-family:cursive;
+}
+.copyright{
+font-size:10px;
+text-align:center;
+}
+

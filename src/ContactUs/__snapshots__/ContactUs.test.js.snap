@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the ContactUs component correctly 1`] = `
+<div>
+  <body>
+    <div
+      class="contactUs"
+    >
+      <div>
+        <h1
+          class="title"
+        >
+          Contact Us
+        </h1>
+      </div>
+      <div
+        class="contactUs1"
+      >
+        <p>
+          Kruthi Nymisha
+        </p>
+        <a
+          href="mailto:kruthi@gmail.com"
+        >
+          kruthi@gmail.com
+        </a>
+        <p>
+          Ph.No: +(000)-000-8900
+        </p>
+      </div>
+    </div>
+  </body>
+</div>
+`;

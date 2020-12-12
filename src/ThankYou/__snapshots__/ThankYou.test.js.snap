@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders ThankYou correctly 1`] = `
+<div>
+  <div
+    class="thankYou"
+  >
+    <h2>
+      Your order has been successfully placed!
+    </h2>
+    <div>
+      <img
+        alt="thanks"
+        src="Thanks.gif"
+      />
+    </div>
+  </div>
+</div>
+`;

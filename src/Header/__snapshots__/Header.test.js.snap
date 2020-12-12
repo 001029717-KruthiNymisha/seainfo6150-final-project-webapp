@@ -1,0 +1,92 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the Header component correctly 1`] = `
+<div>
+  <header
+    class="headerStyle"
+  >
+    <ul
+      class="navbar"
+    >
+      <a
+        href="/"
+      >
+        <img
+          alt="LOGO"
+          class="headerLogo"
+          src="logo.JPG"
+        />
+      </a>
+      <li>
+        <a
+          class="categories"
+          href="/Cupcakes"
+        >
+          Cupcakes
+        </a>
+      </li>
+      <li>
+        <a
+          class="categories"
+          href="/Cookies"
+        >
+          Cookies
+        </a>
+      </li>
+      <div
+        class="navbar"
+      >
+        <div
+          class="dropdown"
+        >
+          <button
+            class="dropbtn"
+          >
+            Categories
+          </button>
+          <div
+            class="dropdownContent"
+          >
+            <a
+              class="subCategoryItem"
+              href="/Cakes"
+            >
+              Cakes
+            </a>
+            <a
+              class="subCategoryItem"
+              href="/WeddingCakes"
+            >
+              Wedding Cakes
+            </a>
+            <a
+              class="subCategoryItem"
+              href="/GlutenFreeCakes"
+            >
+              Gluten-Free Cakes
+            </a>
+            <a
+              class="subCategoryItem"
+              href="/BirthdayCakes"
+            >
+              BirthdayCakes
+            </a>
+          </div>
+        </div>
+      </div>
+    </ul>
+    <ul
+      class="navbar"
+    >
+      <li>
+        <a
+          class="loginCategory"
+          href="/Login"
+        >
+          Login
+        </a>
+      </li>
+    </ul>
+  </header>
+</div>
+`;

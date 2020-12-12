@@ -1,0 +1,61 @@
+.cakeDetails {
+  width: 500px;
+  height: auto;
+  margin-right:100px;
+  margin-bottom: 10px;
+  background-color: #FCDDD9;
+  text-align: center;
+  padding: 20px;
+  font-size: 15px;
+  color: black;
+  font-family: cursive;
+  box-shadow: 5px 5px 10px gray;
+  border: 2px solid black;
+}
+
+
+.titleDetails{
+text-decoration: underline;
+font-family: cursive;
+margin-left: 475px;
+margin-right:100px;
+margin-top:-40px;
+color: Black;
+}
+@media(min-width: 400px){
+.cakeDetails{
+width: 300px;
+height:auto;
+margin-left:200px;
+font-size:10px;
+}
+.titleDetails{
+margin-left: 200px;
+font-size:13px;
+}
+
+}
+@media(min-width: 800px){
+.cakeDetails{
+width: 400px;
+margin-left:300px;
+font-size:13px;
+}
+.titleDetails{
+margin-left: 300px;
+font-size:14px;
+}
+
+}
+@media(min-width: 1000px){
+.cakeDetails{
+width: 500px;
+margin-left: 475px;
+font-size:14px;
+}
+.titleDetails{
+margin-left: 475px;
+font-size:15px;
+}
+
+}

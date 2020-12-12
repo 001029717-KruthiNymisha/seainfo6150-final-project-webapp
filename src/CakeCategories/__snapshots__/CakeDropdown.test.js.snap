@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the CakeCategories component correctly 1`] = `
+<div>
+  <div
+    class="navbar"
+  >
+    <div
+      class="dropdown"
+    >
+      <button
+        class="dropbtn"
+      >
+        Categories
+      </button>
+      <div
+        class="dropdownContent"
+      >
+        <a
+          class="subCategoryItem"
+          href="/Cakes"
+        >
+          Cakes
+        </a>
+        <a
+          class="subCategoryItem"
+          href="/WeddingCakes"
+        >
+          Wedding Cakes
+        </a>
+        <a
+          class="subCategoryItem"
+          href="/GlutenFreeCakes"
+        >
+          Gluten-Free Cakes
+        </a>
+        <a
+          class="subCategoryItem"
+          href="/BirthdayCakes"
+        >
+          BirthdayCakes
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+`;

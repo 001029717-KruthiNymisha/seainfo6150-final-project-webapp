@@ -1,12 +1,12 @@
 import React from "react";
 import { render } from "@testing-library/react";
-import Home from "./Home.jsx";
+import Form from "./Form.jsx";
 import { BrowserRouter } from 'react-router-dom';
 
-it("renders the home component correctly", () => {
+it("renders the Form component correctly", () => {
   const { container } = render(
   <BrowserRouter>
-      <Home />
+      <Form />
       </BrowserRouter>
       );
   expect(container).toMatchSnapshot();

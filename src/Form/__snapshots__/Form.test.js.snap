@@ -1,0 +1,218 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the Form component correctly 1`] = `
+<div>
+  <div>
+    <div
+      class="formStyle"
+    >
+      <form>
+        <h2>
+          <b>
+            Login
+          </b>
+        </h2>
+        <label
+          for="FNameId"
+        >
+          <b>
+            First Name
+          </b>
+           (required):
+        </label>
+        <br />
+        <input
+          id="FNameId"
+          name="fname"
+          required=""
+          type="text"
+        />
+        <br />
+        <label
+          for="LNameId"
+        >
+          <b>
+            Last Name
+          </b>
+           (required):
+        </label>
+        <br />
+        <input
+          id="LNameId"
+          name="lname"
+          required=""
+          type="text"
+        />
+        <br />
+        <label
+          for="Uname"
+        >
+          <b>
+            Username
+          </b>
+           (required):
+        </label>
+        <br />
+        <input
+          id="Uname"
+          name="Uname"
+          required=""
+          type="text"
+        />
+        <br />
+        <label
+          for="pNo"
+        >
+          <b>
+            Phone.No 
+          </b>
+           (required):
+        </label>
+        <br />
+        <input
+          id="pNo"
+          name="phone"
+          required=""
+          type="tel"
+        />
+        <br />
+        <label
+          for="emailId"
+        >
+          <b>
+            Email (required)
+          </b>
+           :
+        </label>
+        <br />
+        <input
+          id="emailId"
+          name="email"
+          required=""
+          type="email"
+        />
+        <br />
+        <label
+          for="password"
+        >
+          <b>
+            Password:
+          </b>
+        </label>
+        <br />
+        <input
+          class="form-control"
+          id="password"
+          placeholder="Password"
+          type="password"
+        />
+        <br />
+        <label
+          for="AgeId"
+        >
+          <b>
+            Age
+          </b>
+        </label>
+        <br />
+        <select
+          id="AgeId"
+          name="Age"
+        >
+          <option
+            value="Age<15"
+          >
+            Age:5-15
+          </option>
+          <option
+            value="Age:15-25"
+          >
+            Age:15-25
+          </option>
+          <option
+            value="Age:25-50"
+          >
+            Age:Age:25-50
+          </option>
+          <option
+            value="Age:25-50"
+          >
+            Age:Age:25-50
+          </option>
+        </select>
+        <br />
+        <label
+          for="GenderId"
+        >
+          <b>
+            Gender
+          </b>
+        </label>
+        <br />
+        <select
+          id="GenderId"
+          name="Gender"
+        >
+          <option
+            value="Male"
+          >
+            Male
+          </option>
+          <option
+            value="Female"
+          >
+            Female
+          </option>
+        </select>
+        <br />
+        <br />
+        Select the subscription method
+        <br />
+        <input
+          id="weekly"
+          name="subscription"
+          type="radio"
+          value="weekly"
+        />
+        <label
+          for="weekly"
+        >
+          Weekly Subscription
+        </label>
+        <br />
+        <input
+          id="monthly"
+          name="subscription"
+          type="radio"
+          value="monthly"
+        />
+        <label
+          for="monthly"
+        >
+          Monthly Subscription
+        </label>
+        <br />
+        <input
+          id="yearly"
+          name="subscription"
+          type="radio"
+          value="yearly"
+        />
+        <label
+          for="yearly"
+        >
+          Yearly Subscription
+        </label>
+        <br />
+        <br />
+        <input
+          type="submit"
+          value="SignUp"
+        />
+        <br />
+        <br />
+      </form>
+    </div>
+  </div>
+</div>
+`;

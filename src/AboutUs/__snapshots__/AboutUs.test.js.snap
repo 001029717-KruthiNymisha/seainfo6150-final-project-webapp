@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the AboutUs component correctly 1`] = `
+<div>
+  <body>
+    <div
+      class="aboutUs1"
+    >
+      <div
+        class="aboutUs"
+      >
+        <div>
+          <h1
+            class="title"
+          >
+             About Us
+          </h1>
+          <p
+            class="text"
+          >
+            " As part of cakebake, we have a friendly family of professional employees who's creative skills bring an edge to the food"
+          </p>
+          <p
+            class="text"
+          >
+            Our ulta modren equipments with world class hygiene measures we produce Gourmet at budget
+          </p>
+          <div>
+            <img
+              alt="aboutUs"
+              class="aboutUsImage"
+              src="aboutUs.jpg"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</div>
+`;

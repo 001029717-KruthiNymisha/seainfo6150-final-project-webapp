@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the ItemImage component correctly 1`] = `
+<div>
+  <div
+    class="itemImage"
+  >
+    <img
+      src="https://assets.wsimgs.com/wsimgs/rk/images/dp/wcm/202038/0588/img36o.jpg"
+    />
+  </div>
+</div>
+`;

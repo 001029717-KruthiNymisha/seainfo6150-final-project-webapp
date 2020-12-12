@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the CakeList component correctly 1`] = `
+<div>
+  <div>
+    <div
+      class="pageTitle"
+    >
+      <h3>
+        GlutenFreeCakes
+      </h3>
+    </div>
+    <ul
+      class="cakeList"
+    >
+      <a
+        href="/cake/GlutenFreeCakes/005-Gluten-Free Happy Birthday Cake"
+      >
+        <li>
+          <div
+            class="cakeListItem"
+          >
+            <div
+              class="cakeImage"
+            >
+              <img
+                alt="Gluten-Free Happy Birthday Cake"
+                src="https://assets.wsimgs.com/wsimgs/rk/images/dp/wcm/202038/0804/img60o.jpg"
+              />
+            </div>
+            <div
+              class="titleStyle"
+            >
+              Gluten-Free Happy Birthday Cake
+            </div>
+          </div>
+        </li>
+      </a>
+    </ul>
+  </div>
+</div>
+`;

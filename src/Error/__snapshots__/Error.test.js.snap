@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the Error component correctly 1`] = `
+<div>
+  <div>
+    <div>
+      <img
+        alt="errors"
+        src="Errors.gif"
+      />
+    </div>
+  </div>
+</div>
+`;

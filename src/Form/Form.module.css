@@ -1,0 +1,16 @@
+.form{
+font-weight:bold;
+font-size: 18px;
+}
+.formStyle{
+display: grid;
+margin: auto;
+width:40%;
+height:600px;
+margin-top:15px;
+padding-left:20px;
+background-color: #FFDAD6;
+font-size:18px;
+border-style: solid;
+border-color: #ff9f99;
+}

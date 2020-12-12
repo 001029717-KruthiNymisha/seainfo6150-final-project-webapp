@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the Header component correctly 1`] = `
+<div>
+  <footer>
+    <div
+      class="footer"
+    >
+      <a
+        class="footerLink"
+        href="/AboutUs"
+      >
+        About Us
+      </a>
+      <a
+        class="footerLink"
+        href="/ContactUs"
+      >
+        Contact Us
+      </a>
+    </div>
+    <div
+      class="copyright"
+    >
+      <p>
+        ©All the content in this website are downloaded from internet as part of INFO6150 project
+      </p>
+    </div>
+  </footer>
+</div>
+`;
